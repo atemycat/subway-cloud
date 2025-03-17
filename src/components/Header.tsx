@@ -12,7 +12,7 @@ const Header: React.FC = () => {
       <div className="max-w-7xl mx-auto flex flex-row items-center justify-between gap-4">
         <Link to="/" className="text-white transition-all hover:opacity-90 duration-300">
           <img 
-            src="/lovable-uploads/f2c77c17-5935-4b39-af69-648159d36b79.png" 
+            src="/img/f2c77c17-5935-4b39-af69-648159d36b79.png" 
             alt="Subway Surfers Universe" 
             className={`${isMobile ? 'h-8' : 'h-10'}`} 
           />
